@@ -1,2 +1,2 @@
-# NZQA-TEST-
+# NZQA-TEST
 qualication test 1
